@@ -38,12 +38,15 @@ const About = () => {
                 <MapPin className="w-6 h-6 text-accent" />
               </div>
               <div>
-                <h3 className="text-xl font-bold mb-2">목표</h3>
-                <p className="text-muted-foreground leading-relaxed">
-                  실무에 강한 개발자
+                <h3 className="text-xl font-bold mb-2">자기소개</h3>
+                <p className="text-muted-foreground leading-relaxed mb-3">
+                  안녕하세요! 충주상업고등학교에 재학 중인 이민준입니다.
                 </p>
-                <p className="text-sm text-muted-foreground/70 mt-2">
-                  다양한 기술을 습득하고 실전 프로젝트를 통해 성장하는 것을 목표로 하고 있습니다
+                <p className="text-sm text-muted-foreground/70 leading-relaxed">
+                  Python, JavaScript, HTML을 학습하며 웹 개발의 기초를 다지고 있습니다. 
+                  ITQ 자격증(엑셀 A, 한글 A)을 취득하여 실무 능력을 검증받았으며, 
+                  꾸준한 학습과 실전 프로젝트를 통해 실력 있는 개발자로 성장하고자 합니다. 
+                  새로운 기술을 배우는 것을 즐기며, 문제 해결에 열정을 가지고 있습니다.
                 </p>
               </div>
             </div>

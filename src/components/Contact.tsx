@@ -21,7 +21,7 @@ const Contact = () => {
           
           <div className="flex flex-wrap gap-4 justify-center">
             <a 
-              href="mailto:contact@example.com"
+              href="mailto:imanjun46@gmail.com"
               className="inline-flex items-center gap-2 px-6 py-3 bg-primary/10 hover:bg-primary/20 border border-primary/30 hover:border-primary/50 rounded-lg transition-all group"
             >
               <Mail className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
@@ -29,23 +29,13 @@ const Contact = () => {
             </a>
             
             <a 
-              href="https://github.com"
+              href="https://github.com/jun7054"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-accent/10 hover:bg-accent/20 border border-accent/30 hover:border-accent/50 rounded-lg transition-all group"
             >
               <Github className="w-5 h-5 text-accent group-hover:scale-110 transition-transform" />
               <span className="text-foreground font-medium">GitHub</span>
-            </a>
-            
-            <a 
-              href="https://linkedin.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-6 py-3 bg-primary/10 hover:bg-primary/20 border border-primary/30 hover:border-primary/50 rounded-lg transition-all group"
-            >
-              <Linkedin className="w-5 h-5 text-primary group-hover:scale-110 transition-transform" />
-              <span className="text-foreground font-medium">LinkedIn</span>
             </a>
           </div>
         </div>
